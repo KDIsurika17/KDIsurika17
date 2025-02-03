@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Isurika</h1>
-<h3 align="center">A passionate software development,quality assuarance and business analysis..</h3>
+### Hi there, I'm Isurika! 👋
 
-- 🔭 I’m currently working on **EGX SUPPLY CHAIN PVT LTD**
+Welcome to my GitHub Profile! 
+I'm passionate About Software Development, Quality Assuarance, Business Analysis, and Continous Learning.
+Here's a little bit about me:
 
-- 🌱 I’m currently learning **Java,Power BI,Web applications and developmentment,**
+🔭 currently working on **EGX SUPPLY CHAIN PVT LTD**
 
-- 📫 How to reach me<br>
-                      <li>**Gmail:isu.kahatapitiyage@gmail.com**</li> <br>
-                      <li>**Github:https://github.com/KDIsurika17/KDIsurika17**<li/>
+🌱 currently learning  **Java, Power BI, Web application development etc**
 
-- ⚡ Fun fact **Called me as ISU..**
+📫 How to reach me <br> <br>
+                  - Gmail: isu.kahatapitiyage@gmail.com <br> 
+                  - Github: https://github.com/KDIsurika17/KDIsurika17 <br>
+                  
+                      
+⚡ Fun fact:  **Call me ISU..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
